@@ -1,0 +1,955 @@
+# Translation of Themes - Bard in Chinese (China)
+# This file is distributed under the same license as the Themes - Bard package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-15 08:22:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - Bard\n"
+
+#. Description of the theme
+msgid "Personal and Multi-Author Free WordPress Blog Theme. Perfect for personal, lifestyle, health & fitness, food, cooking, bakery, travel, beauty, fashion, wedding, photography, news, quotes blog, auto blog, small business website and any other kind of amazing blogs. Minimal, elegant & mobile friendly layout with WooCommerce shop (storefront) support will WOW and inspire your visitors. Well documented and very easy to use even for WordPress beginners. Clean and Modern Responsive design will perfectly showcase your content on any device, even on tablet, mobile & retina displays. Very fast, compatibility with many popular plugins & of course translation & RTL (right to left language) ready, coded with best SEO practices. The theme has features like Text & Image logo, Fullscreen Slider, Header image, Instagram slider widget support, footer menu support, GDPR compatibility plugins support and many more. Works perfectly with all major drag and drop page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi. You just need to write and be awesome! TEMPLATE DEMO: http://wp-royal.com/themes/bard-free/demo/"
+msgstr "一个个人或多作者免费的WordPress博客主题。适合个人，生活方式，健康和健身，食品，烹饪，面包店，旅游，美容，时尚，婚礼，摄影，新闻，报价博客，汽车博客，小型企业站点和任何其他类型的惊人的博客。 通过WooCommerce商店（店面）支持，极简，优雅和移动友好的布局将为您的访客带来惊喜和启发。记录良好，即使对于WordPress初学者也很容易使用。清洁和现代响应式设计将在任何设备上完美展示您的内容，甚至可以在平板电脑，移动和视网膜显示器上展示。加载速度极快，兼容许多流行的插件，当然还有翻译和RTL（从右到左的语言）的预备好，用最好的SEO实践编码。该主题具有文本和图像徽标，全屏滑块，页眉图像，Instagram滑块小工具支持，页脚菜单支持，GDPR兼容性插件支持等功能。与所有主要的拖放页面构建器完美配合，如Elementor，Beaver Builder，Visual Composer，SiteOrigin，Divi。您只要写出您最好的作品！模板演示：http://wp-royal.com/themes/bard-free/demo/"
+
+#. Theme Name of the theme
+#: inc/about/about-bard.php:366
+msgid "Bard"
+msgstr "Bard"
+
+#: index.php:78
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: inc/customizer/customizer.php:1036
+msgid "Your Copyright Text"
+msgstr "您的版权文本"
+
+#: inc/customizer/customizer.php:862
+msgid "Open Social Links in New Window "
+msgstr "在新窗口中打开社交链接 "
+
+#: inc/customizer/customizer.php:637
+msgid "Merge Top and Main Menus"
+msgstr "合并顶部和主要菜单"
+
+#: inc/customizer/customizer.php:418
+msgid "Header Background"
+msgstr "标题背景"
+
+#: inc/about/about-bard.php:482
+msgid "..."
+msgstr "..."
+
+#: inc/about/about-bard.php:432
+msgid "View Full Feature List"
+msgstr "查看完整功能列表"
+
+#: inc/about/about-bard.php:422
+msgid "Premium Support 24/7"
+msgstr "付费支持 24/7"
+
+#: inc/about/about-bard.php:401
+msgid "Advanced Slider Options"
+msgstr "高级滑块选项"
+
+#: inc/about/about-bard.php:394
+msgid "Classic, List, Grid Layouts"
+msgstr "经典、列表、网格布局"
+
+#: inc/about/about-bard.php:387
+msgid "Unlimited Colors Options"
+msgstr "无限颜色选项"
+
+#: inc/customizer/customizer.php:360 inc/about/about-bard.php:346
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "想要知道最新主题变化的要点？ 请参阅我们的下面的修订历史，以了解最近修复和功能的实现。"
+
+#: inc/about/about-bard.php:256
+msgid "Setup Random Header Images"
+msgstr "设置随机标题图像"
+
+#: inc/about/about-bard.php:115 inc/about/about-bard.php:122
+#: inc/about/about-bard.php:129 inc/about/about-bard.php:136
+#: inc/about/about-bard.php:143 inc/about/about-bard.php:150
+#: inc/about/about-bard.php:157 inc/about/about-bard.php:164
+#: inc/about/about-bard.php:171 inc/about/about-bard.php:178
+#: inc/about/about-bard.php:185 inc/about/about-bard.php:192
+#: inc/about/about-bard.php:199 inc/about/about-bard.php:206
+msgid "Live Preview"
+msgstr "实时预览"
+
+#. translators: %s link
+#: inc/customizer/customizer.php:353 inc/about/about-bard.php:106
+msgid "Bard Pro's powerful setup allows you to easily create unique looking sites. Here are a few included examples that can be installed with one click in the Pro Version. More details in the <a href=\"%s\" target=\"_blank\" >Theme Documentation</a>"
+msgstr "Bard Pro强大的设置使您可以轻松创建独特的外观站点。以下是一些可以在专业版中单击安装的示例。 <a href=\"%s\" target=\"_blank\" >主题文档</a>中的更多细节"
+
+#: inc/about/about-bard.php:93
+msgid "Start Customizing"
+msgstr "开始自定义"
+
+#. translators: %s theme name
+#: inc/about/about-bard.php:90
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to personalize your site."
+msgstr "%s 支持使用主题定制器调整所有主题设置的。点击“自定义”来个性化您的站点。"
+
+#. translators: %s theme name
+#: inc/customizer/customizer.php:344 inc/about/about-bard.php:70
+msgid "Need more details? Please check our full documentation for detailed information on how to use %s."
+msgstr "需要更多细节吗？请检查我们的完整文档，了解如何使用的详细信息 %s。"
+
+#: inc/about/about-bard.php:49
+msgid "Useful Plugins"
+msgstr "有用的插件"
+
+#: functions.php:272
+msgid "Left Sidebar"
+msgstr "边栏在左侧"
+
+#: functions.php:262
+msgid "Right Sidebar"
+msgstr "边栏在右侧"
+
+#. translators: %s theme name
+#: functions.php:103
+msgid "Get started with %s"
+msgstr "与 %s 开始"
+
+#. translators: %1$s: theme name, %2$s link
+#: functions.php:98
+msgid "Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr "谢谢您选择 %1$s！为了充分利用我们的主题所能提供的最好的服务，请确保您访问我们的 <a href=\"%2$s\">欢迎页</a>"
+
+#. translators: %s theme name
+#: inc/about/about-bard.php:18
+msgid "Welcome to %s"
+msgstr "欢迎使用 %s"
+
+#. translators: %1$s: theme name, %2$s link, %3$s theme author
+#: footer.php:53
+msgid "%1$s Theme by <a href=\"%2$s\">%3$s.</a>"
+msgstr "%1$s 主题变换 <a href=\"%2$s\">%3$s.</a>"
+
+#: 404.php:8
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我们可能无法找到您需要的内容。或许搜索功能可以帮到您。"
+
+#: functions.php:52
+msgid "Footer Menu"
+msgstr "页脚菜单"
+
+#: inc/customizer/customizer.php:995
+msgid "Uppercase"
+msgstr "大写"
+
+#: inc/customizer/customizer.php:992
+msgid "Italic"
+msgstr "斜体"
+
+#: inc/customizer/customizer.php:335
+msgid "Demo Preview Page."
+msgstr "演示预览页面。"
+
+#: inc/customizer/customizer.php:335
+msgid "All you need for startup: Demo Import, Video Tutorials and more. To see what Bard theme can offer, please visit a "
+msgstr "启动所需的一切：演示导入，视频教程等。要了解Bard主题可以提供的内容，请访问 "
+
+#: inc/customizer/customizer.php:334
+msgid "Demo Import / Getting Started"
+msgstr "演示导入/入门"
+
+#: inc/about/about-bard.php:275
+msgid "Translate The Theme"
+msgstr "翻译主题"
+
+#: inc/about/about-bard.php:271
+msgid "Create Blog Post"
+msgstr "创建博客文章"
+
+#: inc/about/about-bard.php:222
+msgid "Setup Instagram Widget"
+msgstr "安装 Instagram 小工具"
+
+#: inc/about/about-bard.php:266
+msgid "Setup Featured Links"
+msgstr "安装特色链接"
+
+#: inc/about/about-bard.php:261
+msgid "Setup Featured Slider"
+msgstr "设置特色滑块"
+
+#: inc/about/about-bard.php:251
+msgid "Setup Header Image"
+msgstr "设置标头图像"
+
+#: inc/about/about-bard.php:246
+msgid "Setup Colors"
+msgstr "设置颜色"
+
+#: inc/about/about-bard.php:241
+msgid "Setup Copyright"
+msgstr "设置版权"
+
+#: inc/about/about-bard.php:236
+msgid "Setup Social Media"
+msgstr "建立社会媒体"
+
+#: inc/about/about-bard.php:231
+msgid "Setup Logo Image"
+msgstr "设置标志图像"
+
+#: inc/about/about-bard.php:228 inc/about/about-bard.php:233
+#: inc/about/about-bard.php:238 inc/about/about-bard.php:243
+#: inc/about/about-bard.php:248 inc/about/about-bard.php:253
+#: inc/about/about-bard.php:258 inc/about/about-bard.php:263
+#: inc/about/about-bard.php:268
+msgid "Customize"
+msgstr "自定义"
+
+#: inc/about/about-bard.php:226 functions.php:332 functions.php:352
+msgid "Setup Menu"
+msgstr "设置菜单"
+
+#: inc/customizer/customizer.php:336 inc/about/about-bard.php:219
+msgid "Get Started"
+msgstr "开始使用"
+
+#: inc/about/about-bard.php:218 inc/about/about-bard.php:223
+#: inc/about/about-bard.php:227 inc/about/about-bard.php:232
+#: inc/about/about-bard.php:237 inc/about/about-bard.php:242
+#: inc/about/about-bard.php:247 inc/about/about-bard.php:252
+#: inc/about/about-bard.php:257 inc/about/about-bard.php:262
+#: inc/about/about-bard.php:267 inc/about/about-bard.php:272
+#: inc/about/about-bard.php:276
+msgid "Watch Video"
+msgstr "观看视频"
+
+#: inc/about/about-bard.php:103
+msgid "Bard Pro - Predefined Styles"
+msgstr "Bard Pro - 预定义样式"
+
+#: inc/about/about-bard.php:46
+msgid "Video Tutorials"
+msgstr "视频教程"
+
+#: inc/about/about-bard.php:25
+msgid "Theme Demo Preview"
+msgstr "主题演示预览"
+
+#: inc/customizer/customizer.php:679
+msgid "On"
+msgstr "开"
+
+#: inc/customizer/customizer.php:678
+msgid "Off"
+msgstr "关"
+
+#: inc/about/about-bard.php:205
+msgid "Style 10"
+msgstr "样式 10"
+
+#: inc/about/about-bard.php:198
+msgid "Style 9"
+msgstr "样式 9"
+
+#: inc/about/about-bard.php:191
+msgid "Style 8"
+msgstr "样式 8"
+
+#: inc/about/about-bard.php:184
+msgid "Style 7"
+msgstr "样式 7"
+
+#: inc/about/about-bard.php:177
+msgid "Style 6"
+msgstr "样式 6"
+
+#: inc/about/about-bard.php:170
+msgid "Style 5"
+msgstr "样式 5"
+
+#: inc/about/about-bard.php:163
+msgid "Style 4"
+msgstr "样式 4"
+
+#: inc/about/about-bard.php:156
+msgid "Style 3"
+msgstr "样式 3"
+
+#: inc/about/about-bard.php:149
+msgid "Style 2"
+msgstr "样式 2"
+
+#: inc/about/about-bard.php:142
+msgid "Style 1"
+msgstr "样式 1"
+
+#: inc/about/about-bard.php:135
+msgid "Dark"
+msgstr "深色"
+
+#: inc/about/about-bard.php:128
+msgid "Lifestyle"
+msgstr "生活方式"
+
+#: inc/about/about-bard.php:121
+msgid "Food"
+msgstr "食物"
+
+#: inc/about/about-bard.php:114
+msgid "Main"
+msgstr "主要"
+
+#: inc/about/about-bard.php:111
+msgid "Active"
+msgstr "已启用"
+
+#: inc/customizer/customizer.php:350 inc/customizer/customizer.php:356
+msgid "Predefined Styles"
+msgstr "预定义样式"
+
+#: inc/customizer/customizer.php:794
+msgid "Random"
+msgstr "随机"
+
+#: inc/customizer/customizer.php:979
+msgid "Arizonia"
+msgstr "Arizonia"
+
+#: inc/customizer/customizer.php:596
+msgid "Logo Options"
+msgstr "徽标选项"
+
+#: inc/customizer/customizer.php:568
+msgid "Header Options"
+msgstr "页头选项"
+
+#: inc/preview/demo-preview.php:79
+msgid "Pages"
+msgstr "页面"
+
+#: inc/preview/demo-preview.php:74 inc/preview/demo-preview.php:86
+msgid "Categories"
+msgstr "分类"
+
+#: inc/preview/demo-preview.php:73 inc/preview/demo-preview.php:80
+#: inc/preview/demo-preview.php:85
+msgid "Archives"
+msgstr "文章归档"
+
+#: inc/preview/demo-preview.php:72 inc/preview/demo-preview.php:84
+msgid "Recent Posts"
+msgstr "近期文章"
+
+#: inc/customizer/customizer.php:1031
+msgid "Show Scroll-Top Button"
+msgstr "显示返回顶部按钮"
+
+#: inc/customizer/customizer.php:621
+msgid "Right"
+msgstr "右"
+
+#: inc/customizer/customizer.php:415
+msgid "Header Text Hover Color"
+msgstr "页眉文本鼠标悬停颜色"
+
+#: templates/single/single-navigation.php:32
+msgid "Newer"
+msgstr "下一篇"
+
+#: templates/single/single-navigation.php:17
+msgid "Previous"
+msgstr "上一篇"
+
+#: templates/single/post-content.php:61
+msgid "By"
+msgstr "作者"
+
+#: templates/sidebars/sidebar-alt.php:25
+msgid "No Widgets found in the Sidebar Alt!"
+msgstr "在备用侧边栏没有发现任何小工具！"
+
+#: templates/header/main-navigation.php:32
+msgid "Search"
+msgstr "搜索"
+
+#: templates/header/main-navigation.php:12
+msgid "Alt Sidebar"
+msgstr "备用侧边栏"
+
+#: templates/grid/blog-pagination.php:78
+msgid "Load More"
+msgstr "加载更多"
+
+#: templates/grid/blog-pagination.php:72
+msgid "Newer Posts"
+msgstr "新文章"
+
+#: templates/grid/blog-pagination.php:66
+msgid "Older Posts"
+msgstr "旧文章"
+
+#: templates/grid/blog-pagination.php:33
+msgid "Loading..."
+msgstr "加载中..."
+
+#: templates/header/featured-slider.php:98 templates/grid/blog-list.php:59
+msgid "read more"
+msgstr "阅读更多"
+
+#: templates/grid/blog-list.php:24 templates/grid/blog-grid.php:50
+msgid "By "
+msgstr "作者 "
+
+#: templates/grid/blog-list.php:35 templates/grid/blog-full.php:61
+#: templates/grid/blog-grid.php:26 templates/single/post-content.php:67
+msgid "Comments"
+msgstr "评论"
+
+#: templates/grid/blog-list.php:35 templates/grid/blog-full.php:61
+#: templates/grid/blog-grid.php:26 templates/single/post-content.php:67
+msgid "1 Comment"
+msgstr "一条评论"
+
+#: templates/grid/blog-full.php:43
+msgid "Continue Reading"
+msgstr "继续阅读"
+
+#: templates/grid/blog-list.php:64 templates/grid/blog-full.php:67
+#: single.php:34
+msgid "You May Also Like"
+msgstr "您可能也喜欢"
+
+#: page.php:41 templates/single/post-content.php:47
+msgid "Pages:"
+msgstr "页码："
+
+#: index.php:76
+msgid "Nothing Found!"
+msgstr "没有找到！"
+
+#: inc/customizer/customizer.php:1066
+msgid "Preloading Animation"
+msgstr "预加载动画"
+
+#: inc/customizer/customizer.php:1060
+msgid "Preloader"
+msgstr "预加载"
+
+#: inc/customizer/customizer.php:1046
+msgid "Footer Options"
+msgstr "页脚选项"
+
+#: inc/customizer/customizer.php:1025
+msgid "Logo Upload"
+msgstr "上传您的徽标"
+
+#: inc/customizer/customizer.php:586 inc/customizer/customizer.php:1028
+msgid "Show Social Icons"
+msgstr "显示社交图标"
+
+#: inc/customizer/customizer.php:1019
+msgid "Page Footer"
+msgstr "页脚"
+
+#: inc/customizer/customizer.php:1005
+msgid "Typography Options"
+msgstr "排版选项"
+
+#: inc/customizer/customizer.php:986 inc/customizer/customizer.php:989
+msgid "Font Family"
+msgstr "字体"
+
+#: inc/customizer/customizer.php:982
+msgid "Kalam"
+msgstr "Kalam"
+
+#: inc/customizer/customizer.php:981
+msgid "Rokkitt"
+msgstr "Rokkitt"
+
+#: inc/customizer/customizer.php:980
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: inc/customizer/customizer.php:973
+msgid "Typography"
+msgstr "排版"
+
+#: inc/customizer/customizer.php:932 inc/customizer/customizer.php:941
+#: inc/customizer/customizer.php:950 inc/customizer/customizer.php:959
+msgid "Select Icon"
+msgstr "选择图标"
+
+#: inc/customizer/customizer.php:856
+msgid "Social Media"
+msgstr "社交媒体"
+
+#: inc/customizer/customizer.php:798 inc/customizer/customizer.php:847
+msgid "Related Posts - Display"
+msgstr "相关文章－显示"
+
+#: inc/customizer/customizer.php:844
+msgid "Show Author Description"
+msgstr "显示作者描述"
+
+#: inc/customizer/customizer.php:823
+msgid "Single Post"
+msgstr "文章页面"
+
+#: inc/customizer/customizer.php:808
+msgid "Blog Options "
+msgstr "博客选项 "
+
+#: inc/customizer/customizer.php:793
+msgid "Related"
+msgstr "相关"
+
+#: inc/customizer/customizer.php:789 inc/customizer/customizer.php:841
+msgid "Show Author"
+msgstr "显示作者"
+
+#: inc/customizer/customizer.php:786 inc/customizer/customizer.php:838
+msgid "Show Drop Caps"
+msgstr "显示下降"
+
+#: inc/customizer/customizer.php:783 inc/customizer/customizer.php:835
+msgid "Show Comments"
+msgstr "显示评论"
+
+#: inc/customizer/customizer.php:780 inc/customizer/customizer.php:832
+msgid "Show Date"
+msgstr "显示日期"
+
+#: inc/customizer/customizer.php:777 inc/customizer/customizer.php:829
+msgid "Show Categories"
+msgstr "显示分类"
+
+#: inc/customizer/customizer.php:774
+msgid "Post Pagination"
+msgstr "文章分页"
+
+#: inc/customizer/customizer.php:770
+msgid "Numeric"
+msgstr "数字型"
+
+#: inc/customizer/customizer.php:769
+msgid "Default"
+msgstr "默认"
+
+#: inc/customizer/customizer.php:766
+msgid "Post Description"
+msgstr "文章描述"
+
+#: inc/customizer/customizer.php:762
+msgid "Post Content"
+msgstr "文章内容"
+
+#: inc/customizer/customizer.php:761
+msgid "Post Excerpt"
+msgstr "文章摘录"
+
+#: inc/customizer/customizer.php:760 inc/customizer/customizer.php:792
+msgid "None"
+msgstr "无"
+
+#: inc/customizer/customizer.php:757
+msgid "Make First Post Full Width"
+msgstr "使第一个文章全宽"
+
+#: inc/customizer/customizer.php:724 inc/customizer/customizer.php:733
+#: inc/customizer/customizer.php:742
+msgid "Image"
+msgstr "图像"
+
+#: inc/customizer/customizer.php:721 inc/customizer/customizer.php:730
+#: inc/customizer/customizer.php:739 inc/customizer/customizer.php:935
+#: inc/customizer/customizer.php:944 inc/customizer/customizer.php:953
+#: inc/customizer/customizer.php:962
+msgid "URL"
+msgstr "URL"
+
+#: inc/customizer/customizer.php:718 inc/customizer/customizer.php:727
+#: inc/customizer/customizer.php:736 inc/customizer/customizer.php:938
+#: inc/customizer/customizer.php:947 inc/customizer/customizer.php:956
+#: inc/customizer/customizer.php:965
+msgid "Title"
+msgstr "标题"
+
+#: inc/customizer/customizer.php:709 inc/customizer/customizer.php:715
+msgid "Featured Links"
+msgstr "特色链接"
+
+#: inc/customizer/customizer.php:695
+msgid "Slider Options "
+msgstr "滑块选项 "
+
+#: inc/customizer/customizer.php:685
+msgid "Show Pagination Dots"
+msgstr "显示分页点"
+
+#: inc/customizer/customizer.php:682
+msgid "Show Navigation Arrows"
+msgstr "显示导航箭头"
+
+#: inc/customizer/customizer.php:672
+msgid "Number of Slides"
+msgstr "幻灯片数量"
+
+#: inc/customizer/customizer.php:669
+msgid "Select Category"
+msgstr "选择分类目录"
+
+#: inc/customizer/customizer.php:660
+msgid "Display Posts"
+msgstr "显示文章"
+
+#: inc/customizer/customizer.php:646 inc/customizer/customizer.php:652
+msgid "Featured Slider"
+msgstr "特色滑块"
+
+#: inc/customizer/customizer.php:628
+msgid "Show Sidebar Icon"
+msgstr "显示边栏图标"
+
+#: inc/customizer/customizer.php:634
+msgid "Show Search Icon"
+msgstr "显示搜索图标"
+
+#: inc/customizer/customizer.php:631
+msgid "Show Random Post Icon"
+msgstr "显示随机文章图标"
+
+#: inc/customizer/customizer.php:625
+msgid "Align"
+msgstr "对齐"
+
+#: inc/customizer/customizer.php:620
+msgid "Center"
+msgstr "中心"
+
+#: inc/customizer/customizer.php:619
+msgid "Left"
+msgstr "左"
+
+#: inc/customizer/customizer.php:610 inc/customizer/customizer.php:616
+msgid "Main Navigation"
+msgstr "主导航"
+
+#: inc/customizer/customizer.php:581
+msgid "Width"
+msgstr "宽度"
+
+#: inc/customizer/customizer.php:558
+msgid "Enable Parallax Scrolling"
+msgstr "启用视差滚动"
+
+#: inc/customizer/customizer.php:555
+msgid "Background Image Size"
+msgstr "背景图片大小"
+
+#: inc/customizer/customizer.php:551
+msgid "Pattern"
+msgstr "模式"
+
+#: inc/customizer/customizer.php:550
+msgid "Cover"
+msgstr "叠加"
+
+#: inc/customizer/customizer.php:547
+msgid "Page Header"
+msgstr "页眉"
+
+#: inc/customizer/customizer.php:531 inc/customizer/customizer.php:537
+msgid "Top Bar"
+msgstr "顶栏"
+
+#: inc/customizer/customizer.php:517
+msgid "Layout Options"
+msgstr "布局选项"
+
+#: inc/customizer/customizer.php:507
+msgid "Footer Width"
+msgstr "页脚宽度"
+
+#: inc/customizer/customizer.php:504
+msgid "Single Content Width"
+msgstr "单一内容宽度"
+
+#: inc/customizer/customizer.php:501
+msgid "Content Width"
+msgstr "内容宽度"
+
+#: inc/customizer/customizer.php:498
+msgid "Featured Links Width"
+msgstr "特色链接宽度"
+
+#: inc/customizer/customizer.php:495
+msgid "Featured Slider Width"
+msgstr "特色滑块宽度"
+
+#: inc/customizer/customizer.php:487
+msgid "Header Width"
+msgstr "页眉宽度"
+
+#: inc/customizer/customizer.php:483 inc/customizer/customizer.php:491
+msgid "Boxed"
+msgstr "盒装"
+
+#: inc/customizer/customizer.php:482
+msgid "Contained"
+msgstr "包含"
+
+#: inc/customizer/customizer.php:481 inc/customizer/customizer.php:490
+msgid "Full"
+msgstr "全部"
+
+#: inc/customizer/customizer.php:478 inc/customizer/customizer.php:751
+msgid "Blog Page"
+msgstr "博客页面"
+
+#: inc/customizer/customizer.php:474
+msgid "List Style"
+msgstr "列表样式"
+
+#: inc/customizer/customizer.php:473
+msgid "2 Columns"
+msgstr "2列"
+
+#: inc/customizer/customizer.php:469
+msgid "Enable Sticky Sidebar"
+msgstr "启用粘性侧边栏"
+
+#: inc/customizer/customizer.php:466
+msgid "Sidebar Width"
+msgstr "侧边栏宽度"
+
+#: inc/customizer/customizer.php:460
+msgid "General Layouts"
+msgstr "常规布局"
+
+#: inc/customizer/customizer.php:407
+msgid "Accent"
+msgstr "强调"
+
+#: inc/customizer/customizer.php:401 inc/customizer/customizer.php:446
+msgid "Colors"
+msgstr "颜色"
+
+#: inc/customizer/customizer.php:330
+msgid "There are lots of reasons to upgrade to Pro version. Unlimited custom Colors, rich Typography options, multiple variation of Blog Feed layout and way much more. Also Premium Support included."
+msgstr "有很多理由来升级到专业版。无限的自定义颜色，丰富的排版选项，博客源布局和方式的多种变化更多。还包括高级支持。"
+
+#: inc/customizer/customizer.php:329
+msgid "Upgrade"
+msgstr "升级"
+
+#: inc/customizer/customizer.php:316
+msgid "See Bard PRO"
+msgstr "观看 Bard PRO"
+
+#: inc/about/about-bard.php:477
+msgid "Install Now"
+msgstr "现在安装"
+
+#: inc/about/about-bard.php:474
+msgid "Installed"
+msgstr "已安装"
+
+#: inc/about/about-bard.php:415
+msgid "Sticky Navigation"
+msgstr "粘性导航"
+
+#: inc/about/about-bard.php:408
+msgid "Advanced WooCommerce Support"
+msgstr "高级WooCommerce支持"
+
+#: inc/about/about-bard.php:373
+msgid "800+ Google Fonts"
+msgstr "800+ Google 字体"
+
+#: inc/about/about-bard.php:380
+msgid "Header Background Image/Color/Video"
+msgstr "页眉背景图像/颜色/视频"
+
+#: inc/about/about-bard.php:367
+msgid "Bard Pro"
+msgstr "Bard Pro"
+
+#: inc/customizer/customizer.php:331 inc/about/about-bard.php:363
+msgid "Get Bard Pro"
+msgstr "购买 Bard Pro"
+
+#: inc/customizer/customizer.php:359 inc/customizer/customizer.php:361
+#: inc/about/about-bard.php:343 inc/about/about-bard.php:348
+msgid "Changelog"
+msgstr "修订历史"
+
+#: inc/about/about-bard.php:73
+msgid "Read Full Documentation"
+msgstr "阅读完整文档"
+
+#: inc/customizer/customizer.php:339 inc/customizer/customizer.php:347
+#: inc/about/about-bard.php:67
+msgid "Documentation"
+msgstr "文档"
+
+#: inc/about/about-bard.php:335
+msgid "Go to Support Forums"
+msgstr "转到支持论坛"
+
+#: inc/about/about-bard.php:333
+msgid "Before asking a questions it's highly recommended to search on forums, but if you can't find the solution feel free to create a new topic."
+msgstr "在提出问题之前，强烈建议您在论坛上搜索，但如果找不到解决方案，可以自由地创建一个新的主题。"
+
+#: inc/about/about-bard.php:330
+msgid "Forums"
+msgstr "论坛"
+
+#: inc/about/about-bard.php:87
+msgid "Theme Customizer"
+msgstr "主题定制器"
+
+#: inc/about/about-bard.php:78 inc/about/about-bard.php:217
+msgid "Demo Content"
+msgstr "演示内容"
+
+#: inc/about/about-bard.php:55
+msgid "Free vs Pro"
+msgstr "免费 vs Pro"
+
+#: inc/about/about-bard.php:52
+msgid "Support"
+msgstr "支持"
+
+#: inc/about/about-bard.php:43
+msgid "Getting Started"
+msgstr "开始设置"
+
+#: inc/customizer/customizer.php:375 inc/about/about-bard.php:5
+msgid "About Bard"
+msgstr "关于 Bard"
+
+#: functions.php:755
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: functions.php:723 functions.php:746
+msgid "[Edit]"
+msgstr "[编辑]"
+
+#: functions.php:722 functions.php:743
+msgid "&nbsp;at&nbsp;"
+msgstr "&nbsp;在&nbsp;"
+
+#: functions.php:720
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:694
+msgid "Type then hit Enter..."
+msgstr "输入后按回车..."
+
+#: functions.php:694
+msgid "Search..."
+msgstr "搜索..."
+
+#. translators: %s: Name of current post
+#: functions.php:405 functions.php:421
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "继续阅读<span class=\"screen-reader-text\">“%s”</span>"
+
+#: functions.php:378
+msgid "Random Article"
+msgstr "随机文章"
+
+#: functions.php:304
+msgid "Add widget here to appear in your Footer Instagram Area."
+msgstr "在这添加小工具而在页脚Instagram区显示。"
+
+#: functions.php:302
+msgid "Instagram Widget"
+msgstr "Instagram小工具"
+
+#: functions.php:294
+msgid "Add widgets here to appear in your footer."
+msgstr "在此向页脚中添加挂件。"
+
+#: functions.php:292
+msgid "Footer Widgets"
+msgstr "页脚小工具"
+
+#: functions.php:284
+msgid "Add widgets here to appear in your alternative/fixed sidebar."
+msgstr "在这里添加小工具，以显示在您的备用/固定侧栏中。"
+
+#: functions.php:282
+msgid "Sidebar Alt"
+msgstr "备用侧栏"
+
+#: functions.php:264 functions.php:274
+msgid "Add widgets here to appear in your sidebar."
+msgstr "在这里添加要放在侧栏的小工具。"
+
+#: functions.php:195 functions.php:203 functions.php:211 functions.php:219
+#: functions.php:227
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:51
+msgid "Main Menu"
+msgstr "主菜单"
+
+#: functions.php:50
+msgid "Top Menu"
+msgstr "顶部菜单"
+
+#: footer.php:73
+msgid "Back to top"
+msgstr "回到顶部"
+
+#: footer.php:44
+msgid " | "
+msgstr " | "
+
+#: comments.php:30
+msgid "Newer Comments"
+msgstr "较新评论"
+
+#: comments.php:26
+msgid "Older Comments"
+msgstr "较早评论"
+
+#: comments.php:12
+msgid "% Comments"
+msgstr "%条评论"
+
+#: comments.php:12
+msgid "One Comment"
+msgstr "一条评论"
+
+#: templates/grid/blog-list.php:35 templates/grid/blog-full.php:61
+#: templates/grid/blog-grid.php:26 templates/single/post-content.php:67
+#: comments.php:12
+msgid "0 Comments"
+msgstr "0评论"
+
+#: 404.php:5
+msgid "Page not found!"
+msgstr "页面未找到！"
+
+#. Author of the theme
+msgid "WP Royal"
+msgstr "WP Royal"
+
+#. Author URI of the theme
+msgid "http://wp-royal.com/"
+msgstr "http://wp-royal.com/"
+
+#. Theme URI of the theme
+msgid "https://wp-royal.com/themes/item-bard-free/"
+msgstr "https://wp-royal.com/themes/item-bard-free/"
